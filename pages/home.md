@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-![Royal Palace](/assets/img/cinc_2026/royal_palace.jpg)
+![Palacio]({{ '/assets/img/cinc_2026/royal_palace.jpg' | relative_url }})
 
 
 <div style="text-align: center;">

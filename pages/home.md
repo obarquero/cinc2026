@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Computing in Cardiology 2026"
+title: "Welcome to Computing in Cardiology 2026 Madrid"
 layout: single
 author_profile: true
 permalink: /
@@ -7,25 +7,20 @@ permalink: /
 
 ![Palacio]({{ '/assets/img/cinc_2026/royal_palace.jpg' | relative_url }})
 
+<div style="text-align: center;">
+  <img src="{{'/assets/img/cinc_2026/royal_palace.svg' | relative_url}}" alt="Royal Palace" style="width: 500px; height: auto;">
+</div>
+
 
 <div style="text-align: center;">
-  <img src="{{'/assets/img/cinc_2026/logo_completo.svg' | relative_url}}" alt="Texto alternativo" style="width: 600px; height: auto;">
+  <img src="{{'/assets/img/cinc_2026/logo_completo.svg' | relative_url}}" alt="Texto alternativo" style="width: 450px; height: auto;">
 </div>
 
-<div align="right">
-
-	<span style="color: darkorange; font-weight:700; font-size:35px">50th ANNIVERSARY</span>
-
-</div>
-
-<div align="middle">
-<span style="font-weight:500; font-size:25px"><a href="https://photos.app.goo.gl/ugzN6ZujA6fBQdnr9">Photos during CinC 2023 are now available!!</a></span>
-</div>
 
 &nbsp;
 
 &nbsp;
-We warmly invite you to the **50th Computing in Cardiology conference** in **Atlanta, Georgia, USA** on **1st - 4th October 2023**.
+We warmly invite you to the **53th Computing in Cardiology conference** in **Madrid, Spain** on **13th - 16th September 2026**.
 {: .text-justify}
 
 ## Computing in Cardiology

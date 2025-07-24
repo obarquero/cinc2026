@@ -9,6 +9,10 @@ permalink: /
 
 ![Logo](/assets/img/cinc_2026/logo_cinc_madrid.png)
 
+<div style="text-align: center;">
+  <img src="/assets/img/cinc_2026/logo_completo.svg" alt="Texto alternativo" style="width: 300px; height: auto;">
+</div>
+
 <div align="right">
 
 	<span style="color: darkorange; font-weight:700; font-size:35px">50th ANNIVERSARY</span>

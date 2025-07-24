@@ -23,9 +23,9 @@ name                     : "CinC 2026"
 description              : "Computing in Cardiology 2026"
 #url                      : "https://cinc2026.es/"
 #baseurl                  : #""
-repository               : "cinc2026/cinc2026"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/img/cinc_2026/logo_cinc_madid.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "cinc2026"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" assets/img/cinc_2026/logo_cinc_madrid.png
+logo                     : "/assets/img/cinc_2026/logo_cinc_madrid.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : CinC 2026
-  avatar           : "/assets/img/cinc_2026/logo_cinc_madid.png"
+  avatar           : "assets/img/cinc_2026/logo_cinc_madrid.png"
   bio              : ""
   location         :
   email            :

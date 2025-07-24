@@ -7,7 +7,6 @@ permalink: /
 
 ![Royal Palace](/assets/img/cinc_2026/royal_palace.jpg)
 
-![Logo](/assets/img/cinc_2026/logo_cinc_madrid.png)
 
 <div style="text-align: center;">
   <img src="/assets/img/cinc_2026/logo_completo.svg" alt="Texto alternativo" style="width: 300px; height: auto;">

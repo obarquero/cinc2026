@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computing in Cardiology 2023"
+title                    : "Computing in Cardiology 2026"
 title_separator          : "-"
-subtitle                 : "1-4 October 2023 &#9632; Atlanta, Georgia, USA"
-name                     : "CinC 2023"
-description              : "Computing in Cardiology 2023"
-url                      : "https://cinc2023.org/"
+subtitle                 : "13-16 September 2026 &#9632; Madrid, Spain"
+name                     : "CinC 2026"
+description              : "Computing in Cardiology 2026"
+url                      : "https://cinc2026.es/"
 baseurl                  : #""
-repository               : "cinc2023/cinc2023"
+repository               : "cinc2026"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/img/cinc.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/img/cinc_2026/logo_cinc_madid.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : cinc2023
+  username               : cinc2026
 facebook:
   username               :
   app_id                 :
@@ -103,22 +103,22 @@ analytics:
 
 # Site Author
 author:
-  name             : CinC 2023
-  avatar           : "/assets/img/cinc.svg"
+  name             : CinC 2026
+  avatar           : "/assets/img/cinc_2026/logo_cinc_madid.png"
   bio              : ""
   location         :
   email            :
   url              : "https://cinc.org/"
   links:
-    - label: "CinC 2023 Photos"
-      icon: "fab fa-google-drive"
-      url: "https://photos.app.goo.gl/ugzN6ZujA6fBQdnr9"
+    #- label: "CinC 2023 Photos"
+    #  icon: "fab fa-google-drive"
+    #  url: "https://photos.app.goo.gl/ugzN6ZujA6fBQdnr9"
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar"
       url: "/dates/"
     - label: "Registration"
       icon: "fas fa-fw fa-registered"
-      url: "https://softconf.com/n/cinc2023/user/"
+      url: #"https://softconf.com/n/cinc2023/user/"
     - label: "Authors"
       icon: "fas fa-fw fa-user"
       url: "/authors/"

@@ -6,6 +6,9 @@ permalink: /
 ---
 
 ![Royal Palace](/assets/img/cinc_2026/royal_palace.jpg)
+
+{% include figure image_path="assets/img/cinc_2026/logo_cinc_madrid.png" alt="Descripción" caption="Texto opcional" %}
+
 <div align="right">
 
 	<span style="color: darkorange; font-weight:700; font-size:35px">50th ANNIVERSARY</span>

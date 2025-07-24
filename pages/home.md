@@ -9,7 +9,7 @@ permalink: /
 
 
 <div style="text-align: center;">
-  <img src="{{'/assets/img/cinc_2026/logo_completo.svg' | relative_url}} alt="Texto alternativo" style="width: 300px; height: auto;">
+  <img src="{{'/assets/img/cinc_2026/logo_completo.svg' | relative_url}}" alt="Texto alternativo" style="width: 300px; height: auto;">
 </div>
 
 <div align="right">

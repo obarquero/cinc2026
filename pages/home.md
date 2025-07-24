@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-![Atlanta skyline](/assets/img/skyline.jpg)
+![Royal Palace](/assets/img/cinc_2026/royal_palace.jpg)
 <div align="right">
 
 	<span style="color: darkorange; font-weight:700; font-size:35px">50th ANNIVERSARY</span>

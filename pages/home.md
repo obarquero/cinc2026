@@ -7,7 +7,7 @@ permalink: /
 
 ![Royal Palace](/assets/img/cinc_2026/royal_palace.jpg)
 
-{% include figure image_path="assets/img/cinc_2026/logo_cinc_madrid.png" alt="Descripción" caption="Texto opcional" %}
+![Logo](/assets/img/cinc_2026/logo_cinc_madrid.png)
 
 <div align="right">
 
